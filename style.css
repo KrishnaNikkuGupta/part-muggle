@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+
+
+#welcome {
+
+   
+    text-align: center;
+
+
+}
+
+
+
+
+}
+
+
+
+
+
+#contacts {
+
+    background: firebrick;
+}
+
+#contacts iframe {
+
+    width: 100%;
+}
+
+#app {
+    width: 20px;
+    height: 20px;
+
+
+}
